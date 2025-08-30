@@ -79,8 +79,9 @@ The below is the screenshot of the JSON response for the POSITIVE, MIXED and NEG
 
 ### Mixed Review
 
-![alt text](output/mixed.png)
+<img width="1820" height="371" alt="image" src="https://github.com/user-attachments/assets/dc93f6f3-8026-4307-91af-f049f81727ba" />
 
 ### Negative Review
 
-![alt text](output/negative.png)
+<img width="1814" height="367" alt="image" src="https://github.com/user-attachments/assets/36f5225a-8c77-4278-8730-c27be1995bbe" />
+
