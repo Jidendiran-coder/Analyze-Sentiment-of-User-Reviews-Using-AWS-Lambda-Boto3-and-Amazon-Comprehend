@@ -1,4 +1,4 @@
-# 📊 Sentiment Analysis API using AWS Lambda & Amazon Comprehend
+# 📊 Sentiment Analysis of User Reviews using AWS Lambda & Amazon Comprehend
 
 This project provides a serverless REST API to analyze the **sentiment of user reviews** using **Amazon Comprehend**, deployed on **AWS Lambda** and exposed via **API Gateway**.
 
